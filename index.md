@@ -13,7 +13,7 @@ Ota meihin yhteyttä, niin autamme sinua hakemuksen teossa pro bono.
 
 ## Ota yhteyttä
 
-[juristitoimisto@protonmail.com](mailto:juristitoimisto@protonmail.com)
+[juristitoimisto@gmail.com](mailto:juristitoimisto@gmail.com)
 
 [010-2998012](tel:010-2998012)
 
