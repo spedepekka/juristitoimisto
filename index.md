@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Juristitoimisto - Sami Salovaara
+title: Juristitoimisto
 ---
 
 Torstaina 19.3.2020 aukeaa Business Finlandin "Liiketoiminnan kehitysrahoitus häiriötilantetessa"
