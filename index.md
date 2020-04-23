@@ -3,14 +3,6 @@ layout: page
 title: Juristitoimisto
 ---
 
-Torstaina 19.3.2020 aukeaa Business Finlandin "Liiketoiminnan kehitysrahoitus häiriötilantetessa"
-
-Soveltuville yrityksille on siis aluksi 10 000 € per yritys jaossa.
-
-Ota meihin yhteyttä, niin autamme sinua hakemuksen teossa pro bono.
-
-[https://www.businessfinland.fi/suomalaisille-asiakkaille/palvelut/rahoitus/hairiotilannerahoitus/](https://www.businessfinland.fi/suomalaisille-asiakkaille/palvelut/rahoitus/hairiotilannerahoitus/)
-
 ## Ota yhteyttä
 
 [juristitoimisto@gmail.com](mailto:juristitoimisto@gmail.com)
